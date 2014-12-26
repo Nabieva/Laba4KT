@@ -1,0 +1,12 @@
+.selected {
+    background-color: green;
+}
+table {
+    background-color: pink;
+    border-collapse: collapse;
+}
+td {
+    text-align: center;
+    border: 1px solid black;
+    padding: 6px;
+}
